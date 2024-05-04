@@ -1,0 +1,9 @@
+export { default as Logo } from './icons/Vector.png';
+export { default as Logo1 } from './icons/Vector1.png';
+export { default as checkbox } from './icons/Checkbox.png';
+export { default as checkbox1 } from './icons/Checkbox1.png';
+export { default as google } from './icons/google.png';
+export { default as restoreimage } from './icons/GDPR-amico2.png';
+export { default as errorimage } from './icons/errorimage.png';
+export { default as university } from './icons/university.png';
+export { default as qr } from './icons/qr.png';
